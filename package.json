@@ -1,0 +1,17 @@
+{
+  "name": "nodejs-demo",
+  "version": "1.0.0",
+  "description": "nodejs demo",
+  "author": "Rui Zhang <rzhang69@ucsc.edu>",
+  "license": "",
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "nodejs",
+  ],
+  "dependencies": {
+  }
+}
